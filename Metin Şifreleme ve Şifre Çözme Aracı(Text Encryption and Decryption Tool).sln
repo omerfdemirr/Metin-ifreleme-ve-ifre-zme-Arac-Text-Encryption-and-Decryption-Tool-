@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metin Şifreleme ve Şifre Çözme Aracı(Text Encryption and Decryption Tool)", "Metin Şifreleme ve Şifre Çözme Aracı(Text Encryption and Decryption Tool).csproj", "{5032BDF8-AA40-4ED0-8591-8333F3E5AA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5032BDF8-AA40-4ED0-8591-8333F3E5AA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5032BDF8-AA40-4ED0-8591-8333F3E5AA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5032BDF8-AA40-4ED0-8591-8333F3E5AA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5032BDF8-AA40-4ED0-8591-8333F3E5AA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56966C22-9CC9-4CAF-8537-D29C32A151CF}
+	EndGlobalSection
+EndGlobal
